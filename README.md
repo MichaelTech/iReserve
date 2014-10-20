@@ -21,7 +21,7 @@ iPhone6预订iOS平台的辅助提醒APP，打开就能实时刷新库存状态�
  
 
 部分代码实现使用开源项目：
+AFNetworking
 MMPDeepSleepPreventer
 NALLabelsMatrix
-AFNetworking
 在此感此作者
