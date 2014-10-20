@@ -10,3 +10,10 @@ iPhone6预订iOS平台的辅助提醒APP，打开就能实时刷新库存状态�
 锁屏、退出后现有通知功能，但程序可能会超时退出无法送达。
 
 3.使用苹果官方数据接口；
+
+部分代码源自开源项目，仅供学习交流使用。
+
+ ![image](https://github.com/MichaelTech/iReserve/1.png)
+ 
+ ![image](https://github.com/MichaelTech/iReserve/2.png)
+ 
