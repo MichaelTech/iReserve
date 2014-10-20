@@ -1,0 +1,13 @@
+PODS:
+  - AFNetworking (1.3.4)
+  - ChameleonFramework (1.1.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 1.3.4)
+  - ChameleonFramework (~> 1.1.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 80c4e0652b08eb34e25b9c0ff3c82556fe5967b4
+  ChameleonFramework: c60096686e3771f5d78f26cfbfd08955a8a88cbd
+
+COCOAPODS: 0.33.1
